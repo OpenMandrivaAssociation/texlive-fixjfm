@@ -1,6 +1,6 @@
 Name:		texlive-fixjfm
 Version:	63967
-Release:	1
+Release:	2
 Summary:	Fix JFM (for *pTeX)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fixjfm
