@@ -3,7 +3,7 @@ Version:	63967
 Release:	2
 Summary:	Fix JFM (for *pTeX)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fixjfm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fixjfm
 License:	knuth
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fixjfm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fixjfm.doc.r%{version}.tar.xz
